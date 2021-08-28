@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757001110834",
+    "firebase_url": "https://blizrys-bookingsystem-default-rtdb.firebaseio.com",
+    "project_id": "blizrys-bookingsystem",
+    "storage_bucket": "blizrys-bookingsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757001110834:android:c0a17183aebadeca5e432b",
+        "android_client_info": {
+          "package_name": "com.blizrys.bookingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757001110834-8rk4g1n0oodsl4vo1g2hg7ubjrb41g01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlSnZ2W4zSfsPBI_ucdiFKtYbvoEjPBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757001110834-8rk4g1n0oodsl4vo1g2hg7ubjrb41g01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
