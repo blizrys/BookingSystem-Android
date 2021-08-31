@@ -69,6 +69,7 @@ dependencies {
     // When using the BoM, you don't specify versions in Firebase library dependencies
     implementation platform('com.google.firebase:firebase-bom:28.4.0')
     implementation 'com.google.firebase:firebase-database-ktx' // Realtime Database library
+    implementation 'com.google.firebase:firebase-firestore-ktx' // Cloud Firestore
     implementation 'com.google.firebase:firebase-auth-ktx' // Authentication
     implementation 'com.firebaseui:firebase-ui-auth:8.0.0' // Authentication UI - not included in BoM version control
 

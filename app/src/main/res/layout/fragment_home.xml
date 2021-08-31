@@ -57,6 +57,12 @@
                 android:layout_height="wrap_content"
                 android:text="Donor Card" />
 
+            <Button
+                android:id="@+id/button_donor_card2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Donor Card" />
+
         </LinearLayout>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
